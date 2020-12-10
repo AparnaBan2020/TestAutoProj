@@ -1,0 +1,408 @@
+[
+  {
+    "domain": ".sky.com",
+    "expiry": 1641753712,
+    "httpOnly": false,
+    "name": "_cs_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "22a6702f-10fa-a86c-e1e5-e195503d1fd2.1607589712.1.1607589718.1607589712.1.1641753712992.Lax.0"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "dtLatC",
+    "path": "/",
+    "secure": true,
+    "value": "4"
+  },
+  {
+    "domain": "www.sky.com",
+    "httpOnly": false,
+    "name": "CONSENT",
+    "path": "/",
+    "secure": true,
+    "value": "YES+GB.en-GB+V9+BX"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "LPSID-66659534",
+    "path": "/",
+    "secure": false,
+    "value": "szwYObVVRI2xB-4gtdyGTw"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1639125715,
+    "httpOnly": false,
+    "name": "LPVID",
+    "path": "/",
+    "secure": false,
+    "value": "g2NDJiMjc0Mzk5OGQ0MGVj"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "_cs_cvars",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%222%22%3A%5B%22Page%20Name%22%2C%22skycom%3Aprospect%3Av4%22%5D%2C%224%22%3A%5B%22Customer%20Type%22%2C%22prospect%22%5D%2C%225%22%3A%5B%22Breadcrumbs%22%2C%22skycom%3Aprospect%22%5D%2C%227%22%3A%5B%22Login%20Status%22%2C%22not_logged_in%22%5D%2C%2210%22%3A%5B%22Page%20Variation%22%2C%22bns%22%5D%2C%2211%22%3A%5B%22Customer%20Type%22%2C%22prospect%22%5D%7D"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1641753712,
+    "httpOnly": false,
+    "name": "_cs_c",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1615365718,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "secure": false,
+    "value": "1.1.1409388378.1607589712"
+  },
+  {
+    "domain": ".www.sky.com",
+    "expiry": 1670661711,
+    "httpOnly": false,
+    "name": "AMCV_0ABA4673527831C00A490D45%40AdobeOrg",
+    "path": "/",
+    "secure": false,
+    "value": "359503849%7CMCIDTS%7C18607%7CMCMID%7C69111147185888668411170333194944038099%7CMCAAMLH-1608194510%7C6%7CMCAAMB-1608194510%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1607596911s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18614%7CvVersion%7C5.0.1"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "aam_uuid",
+    "path": "/",
+    "secure": false,
+    "value": "68816707147479304991176696118768570953"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "dtPC",
+    "path": "/",
+    "secure": true,
+    "value": "4$189716857_183h-vTOKGAHUSGRAJUHIKHKHUCAWPDCUULURU-0e2"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1639125718,
+    "httpOnly": false,
+    "name": "consentUUID",
+    "path": "/",
+    "secure": false,
+    "value": "b74e9427-1d95-4879-94a9-b0dd35d31d5c"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_consent",
+    "path": "/",
+    "secure": false,
+    "value": "1!0:-1:-1:-1:-1:-1"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1623141718,
+    "httpOnly": false,
+    "name": "AAMC_bskyb_0",
+    "path": "/",
+    "secure": false,
+    "value": "REGION%7C6"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "aam_tnt",
+    "path": "/",
+    "secure": false,
+    "value": "seg%3D1901449"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "polaris-engine-test",
+    "path": "/",
+    "secure": false,
+    "value": "prospect%3Dtrue%2Cany_tv%3Dfalse"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1610181716,
+    "httpOnly": false,
+    "name": "bnsPHP",
+    "path": "/",
+    "secure": true,
+    "value": "variant-b"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1670661718,
+    "httpOnly": false,
+    "name": "s_ecid",
+    "path": "/",
+    "secure": false,
+    "value": "MCMID%7C69111147185888668411170333194944038099"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1607589770,
+    "httpOnly": false,
+    "name": "_gat_3f77248f68900e6a8843f4eb0e1faa08",
+    "path": "/",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1607591518,
+    "httpOnly": false,
+    "name": "_cs_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "2.1"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "dtCookie",
+    "path": "/",
+    "secure": true,
+    "value": "v_4_srv_4_sn_I2DCKII8JV4DG8DLSUUQUJC96QUD4KID_app-3A28f0f419e69c5bbd_1_ol_0_perc_100000_mul_1"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1610181713,
+    "httpOnly": false,
+    "name": "_CT_RS_",
+    "path": "/",
+    "secure": false,
+    "value": "Recording"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_csv",
+    "path": "/",
+    "secure": false,
+    "value": "null"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_opt",
+    "path": "/",
+    "secure": false,
+    "value": "1:"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1607676118,
+    "httpOnly": false,
+    "name": "google_360_gid",
+    "path": "/",
+    "secure": false,
+    "value": "GA1.2.987754796.1607589710"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 253402300799,
+    "httpOnly": false,
+    "name": "uuid",
+    "path": "/",
+    "secure": false,
+    "value": "521fd2f1a17d5c513adbe0fd6a7032fe"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "dtSa",
+    "path": "/",
+    "secure": true,
+    "value": "-"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "s_cc",
+    "path": "/",
+    "secure": false,
+    "value": "true"
+  },
+  {
+    "domain": "www.sky.com",
+    "httpOnly": false,
+    "name": "skyOptimizelyUserId",
+    "path": "/",
+    "secure": false,
+    "value": "1b770113-65eb-4fdb-ba0f-c0c85305781e"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1639125718,
+    "httpOnly": false,
+    "name": "WRUID",
+    "path": "/",
+    "secure": false,
+    "value": "3072316432286012"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1607596901,
+    "httpOnly": true,
+    "name": "ak_bmsc",
+    "path": "/",
+    "secure": false,
+    "value": "25F22D821452D0361CE56745DE536D7A170AFCA5FE31000045DFD15FC91A927E~plbkMWiVamiY+m1DDxx4s83Qeov7CuvNDPIP45csejAKx46LEBi8hUfUf38iUvfEZWMaox/2gXl5tE1Cz0R7afBG0KVTqKJEkuRvnJ2KT4mgi2t6k835TwvyuzmJUDVw37wkVEAdSiy6uNIZyR9BLdpfln75wV/g0718MHtNCaXwGN56i4m1VTQdc9uBqyAb9bB8TVch/iOP3+VLwfJBdH2QYu8nlk0FF1IPZGCpv3QQp7iErDIK0CV7695zv0ESPr4vWcWQzCSE4+1yjlQ6l6RFZUR8bOqnO8V8gTNYdtRNA="
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "rxVisitor",
+    "path": "/",
+    "secure": true,
+    "value": "1607589704664TICVT2LLR17TECMEHVM3EOI8CH08GI0L"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181716,
+    "httpOnly": false,
+    "name": "akacd_skycom_homepage",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "1610181716~rv=26~id=e68a81a016392c3e742df9a07899a77b"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1615365704,
+    "httpOnly": false,
+    "name": "polarisSplit",
+    "path": "/",
+    "secure": false,
+    "value": "38"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_ss",
+    "path": "/",
+    "secure": false,
+    "value": "1:H4sIAAAAAAAAAItWqo5RKimOUbKKJpKRB2IY1MbqxCilgph5pTk5QHYJWEF1LV0klGIBfeYtMLgAAAA%3D"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_data",
+    "path": "/",
+    "secure": false,
+    "value": "2:170556:1607589710:0:2:0:2:0:0:_:-1"
+  },
+  {
+    "domain": ".www.sky.com",
+    "httpOnly": false,
+    "name": "AMCVS_0ABA4673527831C00A490D45%40AdobeOrg",
+    "path": "/",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "rxvt",
+    "path": "/",
+    "secure": true,
+    "value": "1607591519012|1607589704666"
+  },
+  {
+    "domain": ".www.sky.com",
+    "expiry": 1608194518,
+    "httpOnly": false,
+    "name": "RT",
+    "path": "/",
+    "secure": false,
+    "value": "\"z=1&dm=www.sky.com&si=e9874b0c-81e6-48f7-bc6d-edd4dfdc6084&ss=kiileffp&sl=1&tt=aki&rl=1\""
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1615365704,
+    "httpOnly": false,
+    "name": "skySplit01",
+    "path": "/",
+    "secure": false,
+    "value": "38"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1639125718,
+    "httpOnly": false,
+    "name": "ClicktaleReplayLink",
+    "path": "/",
+    "secure": false,
+    "value": "https://app.contentsquare.com/quick-playback/index.html?pid=3692&uu=22a6702f-10fa-a86c-e1e5-e195503d1fd2&sn=1&pvid=2"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_uid",
+    "path": "/",
+    "secure": false,
+    "value": "1:34:de4819d9-0af2-4e9f-81c1-d29e0d64bf3b"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1670661718,
+    "httpOnly": false,
+    "name": "google_360",
+    "path": "/",
+    "secure": false,
+    "value": "GA1.2.2002566155.1607589710"
+  },
+  {
+    "domain": ".sky.com",
+    "expiry": 1639125718,
+    "httpOnly": false,
+    "name": "__CT_Data",
+    "path": "/",
+    "secure": false,
+    "value": "gpv=2&ckp=tld&dm=sky.com&apv_6_www57=2&cpv_6_www57=2&rpv_6_www57=2"
+  },
+  {
+    "domain": "www.sky.com",
+    "expiry": 1610181718,
+    "httpOnly": false,
+    "name": "_sp_v1_lt",
+    "path": "/",
+    "secure": false,
+    "value": "1:"
+  },
+  {
+    "domain": ".sky.com",
+    "httpOnly": false,
+    "name": "countryAKA",
+    "path": "/",
+    "secure": false,
+    "value": "GB"
+  }
+]
